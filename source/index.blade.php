@@ -1,6 +1,7 @@
 @extends('_layouts.main')
 
 @section('body')
+    <small>Page updated</small>
     <div class="p-8">
         <h1 class="text-3xl font-bold">Local Posts!</h1>
     </div>
